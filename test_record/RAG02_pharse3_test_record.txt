@@ -1,0 +1,261 @@
+問題：Level 37 的水含有哪些化學物質？
+檢索 chunk IDs： L37-003, L37-009, L37-001
+Groq 回答： 根據官方說明（**canonical**）的文件 **L37-003**，Level 37 的水中檢測到以下化學成分：
+
+1. **少量硫酸鎂（Epsom salt，magnesium sulfate）**——其長時間浸泡會產生放鬆肌肉、緩解疼痛的效果。  
+2. **多種未被辨識的化合物**——目前尚不清楚其來源與性質，僅推測可能透過異常方式增強水體的舒緩效果。
+
+除上述兩項外，文件未列出其他具體化學物質。若需更詳細的成分資訊，現有資料仍不足以確定。  
+
+（資料來源：L37-003）
+
+問題：Level 37 有哪些出口？
+檢索 chunk IDs： L37-001, L37-005, L37-009
+Groq 回答： 根據目前可取得的官方（canonical）文件，**並未列出 Level 37 的任何出口**。  
+- 目前的條目僅說明了 Level 37 的環境特徵（L37‑001）與其缺乏實體（L37‑005），以及可作為**入口**的幾種情況（L37‑009）。  
+- 沒有任何段落提及從此層返回其他層的方式或具體出口位置。
+
+因此，**現有文件未能確定 Level 37 的出口**。若未來有更新的 Wiki 條目或探索者報告，才可能補充此資訊。
+
+問題：Level 37 有實體存在嗎？
+檢索 chunk IDs： L37-005, L37-001, L37-006
+Groq 回答： 根據官方（canonical）說明，**Level 37 被認為是完全沒有實體存在的**。  
+
+- 在 **[CHUNK L37‑005]** 中明確指出：「Level 37 is thought to be entirely devoid of life. No encounters with entities or other wanderers have been recorded…」  
+- 同樣在 **[CHUNK L37‑001]** 的生存難度表列出「Devoid of Entities」作為該層的特徵。  
+- 另外 **[CHUNK L37‑006]** 也說明因為「其布局不易形成永久定居點」以及「可能的隔離特性」，目前在 Level 37 內沒有任何據點，進一步暗示缺乏可供實體居住或活動的環境。
+
+因此，現有文件顯示 **Level 37 沒有已知的實體**；是否真的因為某種隔離屬性或僅是因為其龐大而難以相遇，仍屬未確定的推測，但官方資料未記錄任何實體出現。
+
+問題：Level 37 的聲音有什麼異常？
+檢索 chunk IDs： L37-004, L37-001, L37-005
+Groq 回答： 在 Level 37（Sublimity）中，聲音會出現多種異常現象，這些都是官方文件所記載的 **canonical** 描述：
+
+* **聲音突然消失**：在同一區域內，原本清晰的噪音或對話可能會在瞬間變得完全聽不見。  
+* **回音異常**：聲波不會像在普通空間那樣正常反射，導致回聲減弱或根本不產生。  
+* **語音被「抑制」或「浸濕」**：說話聲聽起來像被水浸過般，感覺被「靜音」或「潮濕」的效果所覆蓋。  
+* **水聲的雙重性**：水的聲音本身也呈現不穩定的特性——大多數情況下它是「安靜、近乎平靜」的；但在較少見的情況下，水聲會變得「刺耳、壓倒其他聲音」​[L37-004]。
+
+目前尚未有確切的機制說明這些聲音異常的成因，研究仍在進行中，尚未得出結論​[L37-004]。因此，探索者在 Level 37 內應預期聲音環境會不斷變化，且可能影響溝通與環境感知。
+
+問題：Scapes 是什麼？
+檢索 chunk IDs： L37-008, L37-003, L37-001
+Groq 回答： **Scapes** 是在《Level 37》中由一位流浪者的回收日誌（narrative）所創的概念，並非官方（canonical）定義的實體或區域。根據該日誌的描述（L37-008）：
+
+- **意義**：Scapes 被稱為「如夢似幻的領域」，是人們在 Level 37 內穿梭時所感受到的、由個人情緒與心境所塑造的空間。  
+- **特性**：每個 Scape 同時「過於熟悉」又「過於陌生」，給人既平靜又令人不安的感受，類似噩夢。它們會根據個體的心理狀態而「量身訂做」——你在不加思索地通過的地方會變成你唯一的認知。  
+- **可否離開**：作者認為只要擁有「正確的心境」就能隨時退出 Scape，但在不斷循環的走廊與荒謬的走道中取得這種心境並不容易。  
+- **主觀感受**：有人在 Scape 中感受到「和平與寧靜」，也有人被「光線缺乏的角落」所籠罩而產生恐懼。  
+
+> 「I’ve come to call them Scapes — dreamlike realms one passes through…」 (L37-008)
+
+因此，**Scapes** 不是 Level 37 的官方結構或規則，而是作者用來形容這些由人類情感與思維投射而成的、個人化且變幻莫測的空間體驗。現有文件中沒有其他官方（canonical）說明，僅限於上述日誌的主觀描述。
+
+問題：誰建造了 Level 37？
+檢索 chunk IDs： L37-005, L37-001, L37-006
+Groq 回答： 根據目前可取得的官方（canonical）文件，並未提及 Level 37 的建造者或設計者是誰。  
+- 《Overview》（L37‑001）僅描述了關於環境與生存難度的資訊。  
+- 《Entities》（L37‑005）說明此層「被認為完全沒有生命」；  
+- 《Settlements》（L37‑006）指出此層「不易形成永久聚落」且「沒有任何前哨」。  
+
+上述內容皆未包含任何關於建造者、創造者或背後勢力的說明。因此，**現有文件未能確定** Level 37 的建造者是誰。
+問題：Level 37 的水含有哪些化學物質？
+1. L37-003 — Water Properties（相似度 0.6306）
+   Investigation has shown that traces of Epsom salt (magnesium sulfate) are present in the waters of Level 37. This compound, when engulfing…
+2. L37-009 — Entrances（相似度 0.4955）
+   ## Entrances * Submerging oneself in the waters of Level 58 and Level 119 may lead to one reemerging in this level; * Porcelain-tiled areas…
+3. L37-001 — Overview（相似度 0.4796）
+   SURVIVAL DIFFICULTY: 0 * Safe. * Unsecure. * Devoid of Entities. Level 37 is an expansive complex of interconnected rooms and corridors…
+
+
+
+問題：Level 37 有哪些出口？
+1. L37-001 — Overview（相似度 0.6137）
+   SURVIVAL DIFFICULTY: 0 * Safe. * Unsecure. * Devoid of Entities. Level 37 is an expansive complex of interconnected rooms and corridors…
+2. L37-005 — Entities（相似度 0.5678）
+   Level 37 is thought to be entirely devoid of life. No encounters with entities or other wanderers have been recorded in the level; it is…
+3. L37-009 — Entrances（相似度 0.4670）
+   ## Entrances * Submerging oneself in the waters of Level 58 and Level 119 may lead to one reemerging in this level; * Porcelain-tiled areas…
+4. L37-010 — Exits and Hazards（相似度 0.4239）
+   ## Exits * Immersing oneself in the water of Level 37 may cause reemergence in the pools of Level 130; * Enclosed, dark tunnels in this…
+5. L37-006 — Settlements（相似度 0.3563）
+   Due to its layout not easily allowing for permanent settlements, along with its possible isolating properties, no outposts currently exist…
+6. L37-002 — Architecture（相似度 0.3378）
+   The tiles are eerily pristine in condition, all identical to one another, without a single hint of damage on their shiny surfaces.^{1} The…
+7. L37-004 — Acoustic Anomalies（相似度 0.2504）
+   Sound is severely altered in Level 37. Examples include the sudden dropping-off of noises produced in the level, soundwaves not…
+8. L37-003 — Water Properties（相似度 0.2239）
+   Investigation has shown that traces of Epsom salt (magnesium sulfate) are present in the waters of Level 37. This compound, when engulfing…
+9. L37-007 — Recovered Journal（相似度 0.1728）
+   The following is what is generally accepted to be an excerpt of an unknown author's journal, transcribed verbatim. Its inclusion in this…
+10. L37-008 — Recovered Journal (continued)（相似度 0.0923）
+   It is not the doing of any force or overseeing entity whatsoever; instead, it is one’s emotions that keep the rooms extending — the impetus…
+---
+comment:
+水中化學物質	正確	正確	通過
+Level 37 出口	未找到 L37-010	錯誤	未通過
+是否有實體	正確	正確	通過
+聲音異常	正確	大致正確	通過
+Scapes	正確	正確	通過
+建造者	合理	正確拒絕臆測	通過
+---
+
+改過system prompt與top5
+問題：Level 37 的水含有哪些化學物質？
+檢索 chunk IDs： L37-003, L37-009, L37-001, L37-010, L37-004
+Groq 回答： 根據目前檢索到的 Wiki 內容，Level 37 的水中已確認含有以下化學物質：
+
+1. **Epsom salt（硫酸鎂，magnesium sulfate）** – 以微量形式存在，長時間浸泡會產生放鬆肌肉、緩解疼痛的效果。  
+2. **多種未被辨識的化合物** – 亦以微量形式出現在水中，雖然其來源與性質尚未確定，但推測可能透過異常方式增強水的舒緩效果。
+
+以上資訊皆來自官方條目中的「Water Properties」段落，未有其他已知的化學成分被記錄。  
+（來源：​[L37-003]）
+
+問題：Level 37 有哪些出口？
+檢索 chunk IDs： L37-001, L37-005, L37-009, L37-010, L37-006
+Groq 回答： 根據目前檢索到的 Wiki 資料，Level 37 已知的出口如下：
+
+| 出口類型 | 可能的目的層級 | 相關說明 |
+|----------|----------------|----------|
+| 沉入 Level 37 的水中 | 可能重新出現在 Level 130 的池塘中 | 需要「沉浸」於水中，才有機會返回 Level 130【L37-010】 |
+| 位於暗閉的隧道 | 可能通往 Level 43 | 這些隧道通常是封閉且缺乏光源，若能找到入口，可能會通向 Level 43【L37-010】 |
+| 某些走廊 | 可能連接到 Level 233 的類似走廊 | 這類走廊的連接相當罕見，僅在少數情況下會出現【L37-010】 |
+
+> **注意**：上述出口均以「可能」或「罕見」描述，表示目前尚未有確定的實證，且探索這些出口需要適當的裝備以避免溺水或其他危險【L37-010】。
+
+問題：Level 37 有實體存在嗎？
+檢索 chunk IDs： L37-005, L37-001, L37-006, L37-010, L37-009
+Groq 回答： 根據目前的 Wiki 記載，**Level 37 被認為是完全沒有實體存在的**。  
+
+- 在 *Entities* 章節中明確寫道：「Level 37 is thought to be entirely devoid of life. No encounters with entities or other wanderers have been recorded in the level…」[L37-005]。  
+- 同樣在 *Overview* 中的生存難度說明裡列出「Devoid of Entities」[L37-001]。
+
+因此，現有的官方（canonical）資料顯示在 Level 37 中沒有已知的實體或其他流浪者；是否因為層級的隔離特性或其龐大空間導致無法相遇，仍屬未解之謎。
+
+問題：Level 37 的聲音有什麼異常？
+檢索 chunk IDs： L37-004, L37-001, L37-005, L37-010, L37-009
+Groq 回答： 在 **Level 37** 中，聲音會出現多種異常現象，主要包括：
+
+* **聲音突然消失**：在同一區域內，原本可聽見的噪音會突然斷掉。  
+* **回音缺失**：聲波不會像在一般空間那樣產生正常的回響。  
+* **語音被「抑制」或「潮濕」**：說話聲聽起來像被減弱或被水分浸濕一般。  
+* **水聲的雙重表現**：水的聲音有時非常安靜、近乎舒緩；但在較少見的情況下，水聲會變得刺耳且迅速蓋過其他所有聲音，甚至讓其他聲音「沉沒」在其中。
+
+目前的研究認為，這些聲音異常主要與 **Level 37** 中的水體行為有關，因為水的特性在此層級呈現「微妙且不尋常」的方式。然而，**尚未得出確切結論**，相關原因仍在持續調查中。  
+
+> 來源：*Acoustic Anomalies*（[L37-004]）
+
+問題：Scapes 是什麼？
+檢索 chunk IDs： L37-008, L37-003, L37-001, L37-002, L37-007
+Groq 回答： **Scapes** 是在《Level 37》中由一位日誌作者自行命名的概念，屬於 **narrative** 類型的描述，而非官方的 Wiki 條目。
+
+- 作者將 Scapes 定義為「**dreamlike realms**」——類似夢境的領域，人在其中不斷穿梭、體驗，最後前往下一個區域，彷彿是一段旅程【L37-008】。  
+- 這些領域會隨著個人的情緒與心境而變化，既「**far too familiar, but far too strange**」又「**tailored to you**」；對於不同的人，可能同時帶來平靜與恐懼的感受【L37-008】。  
+- 作者認為 Scapes 並非由任何外在力量或建築者創造，而是「**one’s emotions**」推動其延伸與存在，實質上是「**human thought pushed away from its makers**」的產物【L37-008】。
+
+因此，根據目前檢索到的資料，Scapes 可以被理解為 **Level 37 中由個人情緒與心境所形塑的夢境般空間**，這是一位探索者的主觀觀點，尚未在官方（canonical）條目中被正式定義。
+
+問題：誰建造了 Level 37？
+檢索 chunk IDs： L37-005, L37-001, L37-006, L37-002, L37-010
+Groq 回答： 目前檢索到的資料中並未提及任何關於 **Level 37** 的建造者或設計者的資訊。所有提供的章節（如概述、建築、實體、居住點與出口）皆未說明是誰建造了此層級，亦未指出建造者目前未知。  
+
+因此，**無法根據目前檢索到的資料回答「誰建造了 Level 37？」**。  
+
+（此結論基於檢索結果中未包含相關資訊）
+---
+一、Retrieval 評估
+先看六道問題是否取得預期的 Chunk：
+問題	預期 Chunk	是否進入 Top-5
+水中化學物質	L37-003	是
+出口	L37-010	是
+實體	L37-005	是
+聲音異常	L37-004	是
+Scapes	L37-008	是
+建造者	沒有直接對應 Chunk	合理
+
+這代表目前六道測試中，五道有明確答案的問題都取得了對應資料。
+目前的問題已經不是整體角色設定不足，而是模型偶爾會自行補充看似合理的內容。
+---
+
+system prompt #3 adjust
+
+問題：Level 37 的水含有哪些化學物質？
+檢索 chunk IDs： L37-003, L37-009, L37-001, L37-010, L37-004
+Groq 回答： 根據目前檢索到的 Wiki 內容，Level 37 的水中已確認含有：
+
+* **Epsom salt（硫酸鎂，magnesium sulfate）** 的微量痕跡。這種化合物在長時間浸泡時會產生放鬆肌肉、緩解疼痛的效果。  
+* **多種未被辨識的化合物**，其來源與性質目前仍未知，但推測可能透過異常方式增強水的舒緩效果。  
+
+以上資訊皆出自 **Water Properties** 章節的說明，來源為 `[L37-003]`。目前沒有其他檢索片段提供更多關於水中化學成分的資料。
+
+問題：Level 37 有哪些出口？
+檢索 chunk IDs： L37-001, L37-005, L37-009, L37-010, L37-006
+Groq 回答： 根據目前檢索到的 Wiki 內容，Level 37 已記載的出口如下（皆出自 **Exits and Hazards** 章節）：
+
+1. **將自己浸入 Level 37 的水中**，可能會重新出現在 **Level 130** 的池塘裡。  
+   - 文字中使用「may cause」表示此結果並非必然，而是有可能發生的情況。 [ L37-010 ]
+
+2. **位於 Level 37 內的封閉、昏暗隧道**，有時會通往 **Level 43**。  
+   - 同樣以「may lead」描述，表示此通道的存在與成功通往 Level 43 並未被確認為必然。 [ L37-010 ]
+
+3. **Level 37 的走廊** 偶爾會連接到 **Level 233** 中的類似走廊。  
+   - 「can rarely lead」指出這種連接相當罕見且不保證每次都能發生。 [ L37-010 ]
+
+以上即為目前已知的 Level 37 出口資訊。若需要更詳細的入口或其他層級的資訊，請再告知。
+
+問題：Level 37 有實體存在嗎？
+檢索 chunk IDs： L37-005, L37-001, L37-006, L37-010, L37-009
+Groq 回答： 根據目前的 Wiki 記載，**Level 37 被認為是完全沒有實體存在的**。
+
+- 官方條目明確指出此層「Devoid of Entities」且「Level 37 is thought to be entirely devoid of life」；截至目前，**沒有任何實體或其他流浪者的遭遇紀錄**，而這可能是因為層內的隔離特性，或是其龐大到難以相遇的緣故【L37-005】。  
+
+因此，從已檢索到的資料來看，Level 37 內沒有已確認的實體存在。若有其他未被記錄的情況，則目前仍屬未知範疇。
+
+問題：Level 37 的聲音有什麼異常？
+檢索 chunk IDs： L37-004, L37-001, L37-005, L37-010, L37-009
+Groq 回答： 在 **Level 37** 中，聲音會出現多種異常現象，主要包括：
+
+* **聲音突然消失**：在同一區域內，先前聽得到的噪音會突然斷掉。  
+* **聲波不正常的回音**：聲波不會像在普通空間那樣正常反射，導致回聲異常或根本沒有回聲。  
+* **語音被「抑制」或「潮濕」**：說話聲聽起來像被減弱或被水分浸濕，感覺較為沉悶。  
+* **水聲的雙重表現**：水的聲音有時非常安靜、近乎舒緩；但在較少見的情況下，水聲會變得刺耳且蓋過其他所有聲音，甚至把其他聲音「淹沒」掉。
+
+目前的研究認為，這些聲音異常可能與 **Level 37** 中水的「微妙且不尋常」的行為有關，但尚未得出確定結論，仍在持續調查中。  
+
+> 來源：[[L37-004]]
+
+問題：Scapes 是什麼？
+檢索 chunk IDs： L37-008, L37-003, L37-001, L37-002, L37-007
+Groq 回答： **Scapes** 是在《Level 37》中由一位日誌作者自行命名的概念，屬於 **narrative**（主觀敘述）類型的說明。
+
+- 作者認為這些「Scapes」是 **「dreamlike realms」**——類似夢境的領域，人在其中會不斷穿梭、感受並最終前往下一個區域【L37-008】。  
+- 這些領域的形成並非由任何外在力量或管理者所致，而是 **「情緒」**（emotions）驅動的，換句話說，它們是 **「人類思想」** 投射出的空間，與個人的情感、心境緊密相連【L37-008】。  
+- 作者指出，雖然每個 Scape 看起來既 **「過於熟悉」** 又 **「過於陌生」**，但它們會根據個人的內在狀態而「量身訂做」——類似於在夢中看到的場景，既可能帶來平靜，也可能伴隨恐懼【L37-008】。  
+- 另一段回收日誌（L37-007）雖未直接使用「Scapes」一詞，卻描述了相同的概念：這些空間是 **「一個人精神狀態的宏觀映射」**，如同在夢中漫遊，反映了經歷者的情緒與心境【L37-007】。
+
+**總結**：在作者的觀點中，Scapes 是由個人情感與思維所塑造的、類似夢境的、可供穿梭的領域；它們既不是由外在實體建造，也不是固定不變的結構，而是隨著體驗者的內在狀態而變化的「心靈映射」【L37-008】【L37-007】。
+
+問題：誰建造了 Level 37？
+檢索 chunk IDs： L37-005, L37-001, L37-006, L37-002, L37-010
+Groq 回答： 目前檢索到的資料中，**沒有任何章節提及 Level 37 的建造者**。  
+- 片段 [L37-001]、[L37-002]、[L37-005]、[L37-006]、[L37-010] 均只描述了層級的環境、結構、缺乏實體與出口等資訊，未說明是由何人或何種力量建造。  
+
+因此，**目前檢索到的資料不足以回答「誰建造了 Level 37」這個問題**。
+
+---
+comment
+
+Phase 3 — 最終評估
+基本通過
+
+5/5
+有答案問題的 Retrieval
+
+6/6
+回答都有合理的依據或拒答
+
+Top-5 正確檢索
+Canonical / Narrative 區分
+資訊不足時拒絕臆測
+引用 Chunk ID 與實際檢索結果一致
+不確定性與限定條件大致保留
