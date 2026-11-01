@@ -37,3 +37,7 @@ backrooms-rag/
 6. Test in a clean Google Colab environment and prepare assignment documentation.
 
 This project is an educational assignment. Features described above are planned and are not implemented in this initialization phase.
+
+## Source attribution
+
+The Phase 1 dataset reproduces material from [Level 37 - "Sublimity"](https://backrooms-wiki.wikidot.com/level-37) by egglord, from the Backrooms Wiki. Source URL: `https://backrooms-wiki.wikidot.com/level-37`. The page is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).
