@@ -1,0 +1,161 @@
+RAG01 V0.0.1
+paraphrase-multilingual-MiniLM-L12-v2
+```
+Query: What is in the water of Level 37?
+  1. L37-001 — Overview (score=0.6200)
+     SURVIVAL DIFFICULTY: 0 * Safe. * Unsecure. * Devoid of Entities. Level 37 is an expansive complex of interconnected rooms and corridors submerged in undulating, lukewarm water.…
+  2. L37-009 — Entrances (score=0.5924)
+     ## Entrances * Submerging oneself in the waters of Level 58 and Level 119 may lead to one reemerging in this level; * Porcelain-tiled areas of Level 233 infrequently lead to this…
+  3. L37-010 — Exits and Hazards (score=0.5558)
+     ## Exits * Immersing oneself in the water of Level 37 may cause reemergence in the pools of Level 130; * Enclosed, dark tunnels in this level may lead to Level 43; * Corridors in…
+
+Query: Are there any entities in Level 37?
+  1. L37-005 — Entities (score=0.6983)
+     Level 37 is thought to be entirely devoid of life. No encounters with entities or other wanderers have been recorded in the level; it is unknown if this results from some…
+  2. L37-001 — Overview (score=0.6230)
+     SURVIVAL DIFFICULTY: 0 * Safe. * Unsecure. * Devoid of Entities. Level 37 is an expansive complex of interconnected rooms and corridors submerged in undulating, lukewarm water.…
+  3. L37-006 — Settlements (score=0.4345)
+     Due to its layout not easily allowing for permanent settlements, along with its possible isolating properties, no outposts currently exist within Level 37. The level's immense…
+
+Query: How can I exit Level 37?
+  1. L37-010 — Exits and Hazards (score=0.5001)
+     ## Exits * Immersing oneself in the water of Level 37 may cause reemergence in the pools of Level 130; * Enclosed, dark tunnels in this level may lead to Level 43; * Corridors in…
+  2. L37-001 — Overview (score=0.4903)
+     SURVIVAL DIFFICULTY: 0 * Safe. * Unsecure. * Devoid of Entities. Level 37 is an expansive complex of interconnected rooms and corridors submerged in undulating, lukewarm water.…
+  3. L37-005 — Entities (score=0.4623)
+     Level 37 is thought to be entirely devoid of life. No encounters with entities or other wanderers have been recorded in the level; it is unknown if this results from some…
+
+Query: Level 37 的水有什麼特別的地方？
+  1. L37-001 — Overview (score=0.6598)
+     SURVIVAL DIFFICULTY: 0 * Safe. * Unsecure. * Devoid of Entities. Level 37 is an expansive complex of interconnected rooms and corridors submerged in undulating, lukewarm water.…
+  2. L37-009 — Entrances (score=0.6354)
+     ## Entrances * Submerging oneself in the waters of Level 58 and Level 119 may lead to one reemerging in this level; * Porcelain-tiled areas of Level 233 infrequently lead to this…
+  3. L37-010 — Exits and Hazards (score=0.6003)
+     ## Exits * Immersing oneself in the water of Level 37 may cause reemergence in the pools of Level 130; * Enclosed, dark tunnels in this level may lead to Level 43; * Corridors in…
+
+Query: Level 37 有哪些出口？
+  1. L37-001 — Overview (score=0.6137)
+     SURVIVAL DIFFICULTY: 0 * Safe. * Unsecure. * Devoid of Entities. Level 37 is an expansive complex of interconnected rooms and corridors submerged in undulating, lukewarm water.…
+  2. L37-005 — Entities (score=0.5678)
+     Level 37 is thought to be entirely devoid of life. No encounters with entities or other wanderers have been recorded in the level; it is unknown if this results from some…
+  3. L37-009 — Entrances (score=0.4670)
+     ## Entrances * Submerging oneself in the waters of Level 58 and Level 119 may lead to one reemerging in this level; * Porcelain-tiled areas of Level 233 infrequently lead to this…
+
+Query: What are Scapes?
+  1. L37-008 — Recovered Journal (continued) (score=0.2489)
+     It is not the doing of any force or overseeing entity whatsoever; instead, it is one’s emotions that keep the rooms extending — the impetus for their continued growth and…
+  2. L37-001 — Overview (score=0.1776)
+     SURVIVAL DIFFICULTY: 0 * Safe. * Unsecure. * Devoid of Entities. Level 37 is an expansive complex of interconnected rooms and corridors submerged in undulating, lukewarm water.…
+  3. L37-003 — Water Properties (score=0.1745)
+     Investigation has shown that traces of Epsom salt (magnesium sulfate) are present in the waters of Level 37. This compound, when engulfing one’s body for extended periods of time,…
+```
+
+What chemicals are present in the water?
+
+Query: What chemicals are present in the water?
+  1. L37-003 — Water Properties (score=0.6031)
+     Investigation has shown that traces of Epsom salt (magnesium sulfate) are present in the waters of Level 37. This compound, when engulfing one’s body for extended periods of time,…
+  2. L37-004 — Acoustic Anomalies (score=0.3132)
+     Sound is severely altered in Level 37. Examples include the sudden dropping-off of noises produced in the level, soundwaves not reverberating as they should, and speech feeling…
+  3. L37-009 — Entrances (score=0.3051)
+     ## Entrances * Submerging oneself in the waters of Level 58 and Level 119 may lead to one reemerging in this level; * Porcelain-tiled areas of Level 233 infrequently lead to this…
+
+Does Level 37 contain magnesium sulfate?
+
+Query: Does Level 37 contain magnesium sulfate?
+  1. L37-003 — Water Properties (score=0.5639)
+     Investigation has shown that traces of Epsom salt (magnesium sulfate) are present in the waters of Level 37. This compound, when engulfing one’s body for extended periods of time,…
+  2. L37-001 — Overview (score=0.2635)
+     SURVIVAL DIFFICULTY: 0 * Safe. * Unsecure. * Devoid of Entities. Level 37 is an expansive complex of interconnected rooms and corridors submerged in undulating, lukewarm water.…
+  3. L37-009 — Entrances (score=0.2604)
+     ## Entrances * Submerging oneself in the waters of Level 58 and Level 119 may lead to
+
+Describe the chemical properties of the water
+
+Query: Describe the chemical properties of the water
+  1. L37-003 — Water Properties (score=0.5610)
+     Investigation has shown that traces of Epsom salt (magnesium sulfate) are present in the waters of Level 37. This compound, when engulfing one’s body for extended periods of time,…
+  2. L37-009 — Entrances (score=0.2908)
+     ## Entrances * Submerging oneself in the waters of Level 58 and Level 119 may lead to one reemerging in this level; * Porcelain-tiled areas of Level 233 infrequently lead to this…
+  3. L37-004 — Acoustic Anomalies (score=0.2791)
+     Sound is severely altered in Level 37. Examples include the sudden dropping-off of noises produced in the level, soundwaves not reverberating as they should, and speech feeling…
+
+How do wanderers leave this level?
+
+Query: How do wanderers leave this level?
+  1. L37-010 — Exits and Hazards (score=0.4607)
+     ## Exits * Immersing oneself in the water of Level 37 may cause reemergence in the pools of Level 130; * Enclosed, dark tunnels in this level may lead to Level 43; * Corridors in…
+  2. L37-005 — Entities (score=0.4502)
+     Level 37 is thought to be entirely devoid of life. No encounters with entities or other wanderers have been recorded in the level; it is unknown if this results from some…
+  3. L37-001 — Overview (score=0.3812)
+     SURVIVAL DIFFICULTY: 0 * Safe. * Unsecure. * Devoid of Entities. Level 37 is an expansive complex of interconnected rooms and corridors submerged in undulating, lukewarm water.…
+
+What are the exits from Level 37?
+
+Query: What are the exits from Level 37?
+  1. L37-001 — Overview (score=0.6144)
+     SURVIVAL DIFFICULTY: 0 * Safe. * Unsecure. * Devoid of Entities. Level 37 is an expansive complex of interconnected rooms and corridors submerged in undulating, lukewarm water.…
+  2. L37-010 — Exits and Hazards (score=0.5877)
+     ## Exits * Immersing oneself in the water of Level 37 may cause reemergence in the pools of Level 130; * Enclosed, dark tunnels in this level may lead to Level 43; * Corridors in…
+  3. L37-005 — Entities (score=0.5496)
+     Level 37 is thought to be entirely devoid of life. No encounters with entities or other wanderers have been recorded in the level; it is unknown if this results from some…
+
+水中含有哪些化學物質？
+1. L37-003 — Water Properties (score=0.6158)
+     Investigation has shown that traces of Epsom salt (magnesium sulfate) are present in the waters of Level 37. This compound, when engulfing one’s body for extended periods of time,…
+  2. L37-004 — Acoustic Anomalies (score=0.3105)
+     Sound is severely altered in Level 37. Examples include the sudden dropping-off of noises produced in the level, soundwaves not reverberating as they should, and speech feeling…
+  3. L37-009 — Entrances (score=0.2881)
+     ## Entrances * Submerging oneself in the waters of Level 58 and Level 119 may lead to one reemerging in this level; * Porcelain-tiled areas of Level 233 infrequently lead to this…
+
+這個層級有實體存在嗎？
+1. L37-005 — Entities (score=0.5274)
+     Level 37 is thought to be entirely devoid of life. No encounters with entities or other wanderers have been recorded in the level; it is unknown if this results from some…
+  2. L37-001 — Overview (score=0.4688)
+     SURVIVAL DIFFICULTY: 0 * Safe. * Unsecure. * Devoid of Entities. Level 37 is an expansive complex of interconnected rooms and corridors submerged in undulating, lukewarm water.…
+  3. L37-006 — Settlements (score=0.4048)
+     Due to its layout not easily allowing for permanent settlements, along with its possible isolating properties, no outposts currently exist within Level 37. The level's immense…
+
+如何離開這個層級？
+1. L37-010 — Exits and Hazards (score=0.3833)
+     ## Exits * Immersing oneself in the water of Level 37 may cause reemergence in the pools of Level 130; * Enclosed, dark tunnels in this level may lead to Level 43; * Corridors in…
+  2. L37-009 — Entrances (score=0.3708)
+     ## Entrances * Submerging oneself in the waters of Level 58 and Level 119 may lead to one reemerging in this level; * Porcelain-tiled areas of Level 233 infrequently lead to this…
+  3. L37-001 — Overview (score=0.3456)
+     SURVIVAL DIFFICULTY: 0 * Safe. * Unsecure. * Devoid of Entities. Level 37 is an expansive complex of interconnected rooms and corridors submerged in undulating, lukewarm water.…
+
+
+Level 37 的聲音有什麼異常？
+  1. L37-004 — Acoustic Anomalies (score=0.7475)
+     Sound is severely altered in Level 37. Examples include the sudden dropping-off of noises produced in the level, soundwaves not reverberating as they should, and speech feeling…
+  2. L37-001 — Overview (score=0.4499)
+     SURVIVAL DIFFICULTY: 0 * Safe. * Unsecure. * Devoid of Entities. Level 37 is an expansive complex of interconnected rooms and corridors submerged in undulating, lukewarm water.…
+  3. L37-005 — Entities (score=0.4277)
+     Level 37 is thought to be entirely devoid of life. No encounters with entities or other wanderers have been recorded in the level; it is unknown if this results from some…
+
+Scapes 是什麼？
+ 1. L37-008 — Recovered Journal (continued) (score=0.2715)
+     It is not the doing of any force or overseeing entity whatsoever; instead, it is one’s emotions that keep the rooms extending — the impetus for their continued growth and…
+  2. L37-003 — Water Properties (score=0.1772)
+     Investigation has shown that traces of Epsom salt (magnesium sulfate) are present in the waters of Level 37. This compound, when engulfing one’s body for extended periods of time,…
+  3. L37-001 — Overview (score=0.1680)
+     SURVIVAL DIFFICULTY: 0 * Safe. * Unsecure. * Devoid of Entities. Level 37 is an expansive complex of interconnected rooms and corridors submerged in undulating, lukewarm water.…
+
+----
+conclude
+1. 跨語言檢索有發揮作用
+
+資料庫的內容都是英文，但中文問題能找到對應的英文 Chunk。這正是使用多語 Embedding Model 的目的。
+
+2. Query Wording 的影響很大
+
+例如先前的「Level 37 有哪些出口？」無法找到 L37-010，但改成「如何離開這個層級？」就成功了。
+
+因此不能說模型能完美理解所有中文問題，只能說目前的基本檢索已經可用。
+
+3. Scapes 的低分值得留意，但不需要急著處理
+
+0.2715 雖然偏低，卻仍然是第一名，而且正確答案確實在 L37-008。
+
+所以不建議現在設定固定的相似度門檻，例如低於 0.3 就拒絕回答。這可能會錯誤排除有效資料。
+----
