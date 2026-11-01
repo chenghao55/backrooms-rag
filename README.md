@@ -11,8 +11,16 @@ Both modes will use the same RAG knowledge base. The initial text adventure will
 
 ## Notebooks
 
-- **RAG01.ipynb** will load reviewed chunks, generate multilingual embeddings, build a FAISS vector index, and export `rag-data.zip`.
-- **RAG02.ipynb** will download `rag-data.zip`, retrieve relevant documents, use Groq for responses, and provide a Gradio interface for both planned modes.
+- **RAG01.ipynb** loads reviewed chunks, generates multilingual embeddings, builds a FAISS vector index, and exports `rag-data.zip`.
+- **RAG02.ipynb** downloads `rag-data.zip`, retrieves relevant documents, and uses Groq for grounded Wiki QA. Gradio and Text Adventure are reserved for a later phase.
+
+## Run RAG02 in Google Colab
+
+1. Open `RAG02.ipynb` in Colab and add `GROQ_API_KEY` to Colab Secrets. Outside Colab, set the same environment variable.
+2. Run the notebook from top to bottom. It installs `sentence-transformers`, `faiss-cpu`, `groq`, and `requests`, then downloads the public `rag-data.zip` from this repository's `main` branch.
+3. Review the six QA examples or enter a custom question. Set `DEBUG_RETRIEVAL = True` to inspect retrieval scores separately from the answer.
+
+The Groq SDK model ID is `openai/gpt-oss-120b`. The notebook reads the embedding model and normalization settings from the ZIP's `config.json`; it does not rebuild the FAISS database. The ZIP contains `rag_database/index.faiss`, `rag_database/chunks.json`, and `rag_database/config.json`.
 
 ## Project structure
 
@@ -22,7 +30,8 @@ backrooms-rag/
 │   ├── level37_raw.txt      # Original Wiki text placeholder
 │   └── chunks.json          # Reviewed semantic chunks placeholder
 ├── RAG01.ipynb              # Vector database workflow
-├── RAG02.ipynb              # Chatbot workflow
+├── RAG02.ipynb              # Groq Wiki QA workflow
+├── rag-data.zip             # Exported FAISS database
 ├── README.md
 └── .gitignore
 ```
@@ -36,7 +45,7 @@ backrooms-rag/
 5. Add Gradio and a minimal text adventure mode.
 6. Test in a clean Google Colab environment and prepare assignment documentation.
 
-This project is an educational assignment. Features described above are planned and are not implemented in this initialization phase.
+This project is an educational assignment. The retrieval and Groq QA notebook is implemented; the interface and game mode remain planned.
 
 ## Source attribution
 
